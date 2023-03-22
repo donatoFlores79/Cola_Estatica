@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1679365156 source:d:\seminario de estructuras de datos\tareas\colaestática\alumno.cpp
+	"alumno.h"
+
+1679364692 d:\seminario de estructuras de datos\tareas\colaestática\alumno.h
+	<iostream>
+
+1679416046 source:d:\seminario de estructuras de datos\tareas\colaestática\main.cpp
+	<iostream>
+	"cola.h"
+
+1679415640 source:d:\seminario de estructuras de datos\tareas\colaestática\cola.cpp
+	"cola.h"
+
+1679415612 d:\seminario de estructuras de datos\tareas\colaestática\cola.h
+	"constancia.h"
+
+1679415612 d:\seminario de estructuras de datos\tareas\colaestática\constancia.h
+	<iostream>
+
+1679415612 source:d:\seminario de estructuras de datos\tareas\colaestática\constancia.cpp
+	"constancia.h"
+
